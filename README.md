@@ -1,2 +1,3 @@
 # react-firestore
-Berikut adalah contoh CRUD menggunakan React dan Firestore
+Kuis 2 PBF Firestore 
+## "Thalia Amira Rifda"
